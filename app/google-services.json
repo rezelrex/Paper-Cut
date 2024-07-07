@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839552900803",
+    "project_id": "login-register-firebase-5caac",
+    "storage_bucket": "login-register-firebase-5caac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839552900803:android:eb3ee89d8c8f3e00194c76",
+        "android_client_info": {
+          "package_name": "com.example.papercut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhsdr-6K8dxGbjVhroDHZqm923uBEb6hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
